@@ -1,0 +1,1 @@
+https://github.com/koolkishan/react-pokedex/tree/master/src/assets
